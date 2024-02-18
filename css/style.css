@@ -1,0 +1,36 @@
+*{
+    margin: 0px auto;
+}
+
+body{
+    background-color: grey;
+}
+
+#main{
+    width: 95%;
+    background-color: white;
+}
+
+#header{
+    width: 100%;
+    height: 100px;
+    background-color: crimson;
+}
+
+#menu{
+    width: 100%;
+    height: 30px;
+    background-color: darkgray;
+}
+
+#section{
+    width: 100%;
+    height: 300px;
+    background-color: chartreuse;
+}
+
+#footer{
+    width: 100%;
+    height: 300px;
+    background-color: pink;
+}
